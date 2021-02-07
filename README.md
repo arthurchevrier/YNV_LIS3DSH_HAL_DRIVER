@@ -1,6 +1,6 @@
 # YNV_LIS3DSH_HAL_DRIVER
 
-The example file contain a little project on stm32F4 discovery board in oder to light up LED in fonction of the board position.
+The example file contain a little project on stm32F4 discovery board in oder to light up LED in function of the board position.
 
 For more information on the device check :
 
